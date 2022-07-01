@@ -23,7 +23,7 @@ class Employee
 	}
 	
 }
-public class ConstructorOverloadingExample 
+public class Construter 
 {
 	public static void main(String args[])
 	{
