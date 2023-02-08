@@ -1,6 +1,7 @@
 import java.util.Scanner;
-public class Exercise33 { 
- public static void main(String[] args) {
+
+public class Exercise33 {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Input an integer: ");
         long n = input.nextLong();
